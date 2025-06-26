@@ -187,7 +187,7 @@ As of 2025, this update is **no longer available from Microsoft**, but is preser
 - [WindowsXP-KB932716-v2-x86-ENU.exe (Internet Archive)](https://archive.org/details/windows-xp-kb-932716-v-2-x-86-enu)
 
 **SHA1 (original EXE):** `f1e0b16ff6d4a451ff54b6e76fbed4b491c81121`  
-Uploaded for community preservation by [ThisOldCPU](https://archive.org/details/@thisoldcpu).
+Uploaded for community preservation by [ThisOldCPU](https://archive.org/search?query=thisoldcpu)).
 
 > **Note:**  
 > There is **no official UDF 2.5 driver for Windows 2000 or earlier**.
