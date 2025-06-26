@@ -174,8 +174,11 @@ Interface0.DeviceDesc = "Xbox 360 HD DVD Interface 0"
 Interface1.DeviceDesc = "Xbox 360 HD DVD Interface 1"
 ```
 
----
+After installation via Device Manager > Search computer or Right-clicking > Install on the .INF:
 
+![Screenshot 2025-06-26 153829](https://github.com/user-attachments/assets/8401d0aa-88a2-4bef-824d-426cf963d3dd)
+
+---
 ## UDF 2.5 Driver: Required for HD DVD Playback on Older Windows
 
 ### What is UDF 2.5?
