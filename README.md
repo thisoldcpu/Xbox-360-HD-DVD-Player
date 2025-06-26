@@ -4,6 +4,20 @@
 
 The drive used internally is a Toshiba SD-S802A (MC08 or MC09) IDE/ATAPI drive using a proprietary laptop style adapter port to a custom USB translator hub. No evidence of any laptop adapter directly fitting the SD-S802A has been found.
 
+In Windows, the device is seen as "TOSHIBA DVD/HD  X807616 USB Device" enumerated on the USBSTOR device path:
+
+![Screenshot 2025-06-26 144806](https://github.com/user-attachments/assets/ba3b952e-212c-4751-824d-631fd650d8ff)
+
+### Device Instance Path:
+USBSTOR\CDROM&VEN_TOSHIBA&PROD_DVD/HD__X807616&REV_MC08\A&141E7BF6&0 (MC08 firmware)
+
+### Hardware IDs:
+USBSTOR\CdRomTOSHIBA_DVD/HD__X807616_MC08
+
+### Device Stack:
+\Driver\cdrom 
+\Driver\USBSTOR
+
 ### Modern Driver Support & Info
 
 This repository is dedicated to preserving support and documentation for the Xbox 360 HD DVD Player on modern Windows systems.
@@ -193,5 +207,25 @@ Uploaded for community preservation by [ThisOldCPU](https://archive.org/search?q
 
 > **Note:**  
 > There is **no official UDF 2.5 driver for Windows 2000 or earlier**.
+
+---
+
+# TOOD
+
+## Issues
+
+### CD, DVD, or HD DVD Disc is not visible in Explorer
+
+![Screenshot 2025-06-26 145350](https://github.com/user-attachments/assets/c370a6ec-0168-473a-bcde-184d25e63b2e)
+
+### CyberLink PowerDVD 7.3 and Updates
+
+- There is currently no publicly available, official, full installer download link for CyberLink PowerDVD Ultra 7.3 (OEM or Retail) from CyberLink or any verified source online.
+
+- CyberLink’s official website and servers no longer host or provide downloads for version 7.3.
+
+- Trusted archives, forums, and legacy software sites do not legally offer the full original 7.3 Ultra installer.
+
+- Any online “download” claiming to be 7.3 is either a scam, a partial update, or a redirect to newer unsupported versions.
 
 ---
