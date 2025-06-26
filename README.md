@@ -213,7 +213,7 @@ Uploaded for community preservation by [ThisOldCPU](https://archive.org/search?q
 
 ---
 
-# TOOD
+# TODO
 
 ## Issues
 
@@ -230,5 +230,12 @@ Uploaded for community preservation by [ThisOldCPU](https://archive.org/search?q
 - Trusted archives, forums, and legacy software sites do not legally offer the full original 7.3 Ultra installer.
 
 - Any online “download” claiming to be 7.3 is either a scam, a partial update, or a redirect to newer unsupported versions.
+
+### USB C - USB PD 12v + USB mini is silly, we can do better.
+
+- The drive I recieved for documenting had a broken DC socket, so I wired in a pigtail to use various DC sources, benchtop, AC Adapter, or USB C for power only.
+- Aliexpress 12V USB PD board - This has been tested drawing up to 5A without issue, but it does mean two cables as the PD boards I have do not include access to data.
+
+![20250626_174629](https://github.com/user-attachments/assets/2d66a225-768f-42c8-82f6-8d8ffc385853)
 
 ---
