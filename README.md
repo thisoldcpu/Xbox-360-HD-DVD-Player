@@ -170,20 +170,26 @@ Without UDF 2.5 support, Windows can't read the contents of these discs—you'll
 
 ### Is UDF 2.5 included with Windows?
 
-| Windows Version    | UDF 2.5 Support | Notes                                      |
-| ------------------ | --------------- | ------------------------------------------ |
-| Windows XP         | No              | Needs third-party driver to read HD DVD    |
-| Windows Vista+     | Yes             | Native support; no driver needed           |
-| Linux, macOS       | Partial/Yes     | Most modern distros support UDF 2.5        |
+| Windows Version    | UDF 2.5 Support | Notes                                           |
+| ------------------ | --------------- | ----------------------------------------------- |
+| Windows XP         | No              | Needs extra driver to read HD DVD/Blu-ray discs |
+| Windows Vista+     | Yes             | Native support; no driver needed                |
+| Linux, macOS       | Partial/Yes     | Most modern distros support UDF 2.5             |
 
-### For Windows XP Users: UDF 2.5 Driver Download
+---
 
-Microsoft released a UDF 2.5 driver update for Windows XP called "Windows Feature Pack for Storage 1.0".
-This update enables Windows XP to read UDF 2.5 discs (HD DVD and Blu-ray).
+### UDF 2.5 Driver for Windows XP
 
-WindowsXP-KB932716-v2-x86-ENU.exe is no longer available for download from Microsoft,
-but has been included in this repo for now.
+Microsoft released a UDF 2.5 driver update for Windows XP called “Windows Feature Pack for Storage 1.0,” which enables Windows XP to read UDF 2.5 discs (required for most HD DVD and Blu-ray media).
 
-**No official UDF 2.5 driver is available for Windows 2000 or earlier.**
+As of 2025, this update is **no longer available from Microsoft**, but is preserved on Internet Archive:
+
+- [WindowsXP-KB932716-v2-x86-ENU.exe (Internet Archive)](https://archive.org/details/windows-xp-kb-932716-v-2-x-86-enu)
+
+**SHA1 (original EXE):** `f1e0b16ff6d4a451ff54b6e76fbed4b491c81121`  
+Uploaded for community preservation by [ThisOldCPU](https://archive.org/details/@thisoldcpu).
+
+> **Note:**  
+> There is **no official UDF 2.5 driver for Windows 2000 or earlier**.
 
 ---
