@@ -2,6 +2,8 @@
 
 ## Xbox 360 HD DVD Player driver download & installation guide
 
+The drive used internally is a Toshiba SD-S802A (MC08 or MC09) IDE/ATAPI drive using a proprietary laptop style adapter port to a custom USB translator hub. No evidence of any laptop adapter directly fitting the SD-S802A has been found.
+
 ### Modern Driver Support & Info
 
 This repository is dedicated to preserving support and documentation for the Xbox 360 HD DVD Player on modern Windows systems.
